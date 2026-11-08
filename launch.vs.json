@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeProject1\\CMakeLists.txt",
+      "projectTarget": "CMakeProject1",
+      "name": "CMakeProject1 (WSL + WSLg)",
+      "args": [ "cpu.mp4" ],
+      "env": {
+        "DISPLAY": ":0",
+        "SDL_VIDEODRIVER": "x11",
+        "LD_LIBRARY_PATH": "/home/wgj/ffmpeg6/lib"
+      }
+    }
+  ]
+}

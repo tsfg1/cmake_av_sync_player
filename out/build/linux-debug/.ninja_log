@@ -1,0 +1,17 @@
+# ninja log v5
+0	455	1793972145447308800	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.o	dc6c67ad17189eda
+463	617	1793972145608967800	CMakeProject1/CMakeProject1	20ec9b26fcb56a06
+0	10	0	clean	a7c70eacb11a5051
+2	434	1793972387825867900	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.o	dc6c67ad17189eda
+434	585	1793972387975895700	CMakeProject1/CMakeProject1	20ec9b26fcb56a06
+2	1610	1793972837995602100	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.o	dc6c67ad17189eda
+1610	1849	1793972838233936400	CMakeProject1/CMakeProject1	20ec9b26fcb56a06
+0	11	0	clean	a7c70eacb11a5051
+22	2153	1794107321734581600	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.o	dc6c67ad17189eda
+2153	2649	1794107322229483100	CMakeProject1/CMakeProject1	20ec9b26fcb56a06
+0	10	0	clean	a7c70eacb11a5051
+19	484	1794113055011911900	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.o	dc6c67ad17189eda
+484	643	1794113055169918700	CMakeProject1/CMakeProject1	20ec9b26fcb56a06
+0	9	0	clean	a7c70eacb11a5051
+9	388	1794114335592246700	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.o	dc6c67ad17189eda
+392	684	1794114335890107000	CMakeProject1/CMakeProject1	20ec9b26fcb56a06

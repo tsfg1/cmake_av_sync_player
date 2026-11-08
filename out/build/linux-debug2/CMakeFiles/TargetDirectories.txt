@@ -1,0 +1,5 @@
+/mnt/c/Users/WGJ/source/repos/CMakeProject1/out/build/linux-debug2/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/WGJ/source/repos/CMakeProject1/out/build/linux-debug2/CMakeFiles/edit_cache.dir
+/mnt/c/Users/WGJ/source/repos/CMakeProject1/out/build/linux-debug2/CMakeProject1/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/WGJ/source/repos/CMakeProject1/out/build/linux-debug2/CMakeProject1/CMakeFiles/edit_cache.dir
+/mnt/c/Users/WGJ/source/repos/CMakeProject1/out/build/linux-debug2/CMakeProject1/CMakeFiles/CMakeProject1.dir
